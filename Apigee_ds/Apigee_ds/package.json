@@ -1,0 +1,9 @@
+{
+  "name": "apigee_ds",
+  "version": "0.0.0",
+  "description": "Apigee_ds",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
